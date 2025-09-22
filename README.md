@@ -1,4 +1,6 @@
-# Stock-Market-Analysis-With-Python
+# Stock Market Analysis with Python
+This project explores stock market data using Python, focusing on data cleaning, visualization, and business insights.
+It demonstrates how data analysis can reveal trends in stock performance, correlations between companies, and potential investment insights.
 Performing the Financial Analysis on Historic Stock Market Data such as calculating various risks, returns,etc.
 
 1) Simple_n_Log_returns : It predicts the daily and annual returns(simple and logarithmic) based on historic data.
